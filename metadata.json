@@ -1,0 +1,6 @@
+{
+  "name": "Custom Remodeling Services",
+  "description": "Providing comprehensive services across all trades, managing projects from start to finish.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
